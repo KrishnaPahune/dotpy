@@ -1,0 +1,5 @@
+a = input("Your Name: ")
+print("My name is", a)
+b = input("Your Designation: ")
+print("Jay Hind!", b, a + "!")
+print("Jay Hind! {b} {a}!")
