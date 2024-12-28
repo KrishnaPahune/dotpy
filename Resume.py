@@ -1,5 +1,3 @@
-from typing import clear_overloads
-
 name = input("Name = ")
 address = input("Address = ")
 phone = input("Phone Number = +91 ")
