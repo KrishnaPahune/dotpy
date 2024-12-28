@@ -1,5 +1,3 @@
-from typing import clear_overloads
-
 name = input("Name = ")
 address = input("Address = ")
 phone = input("Phone Number = +91 ")
@@ -21,7 +19,7 @@ print(" Resume ".center(100, "|"))
 print()
 print("Name = ", name)
 print("".center(100, "-"))
-print(phone, end="          ")
+print("+91",phone, end="          ")
 print(email, end="          ")
 print(address)
 print()
