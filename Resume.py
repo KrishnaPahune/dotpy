@@ -4,9 +4,11 @@ age=int(input("Age = "))
 address=input("Address = ")
 phone=int(input("Phone Number = "))
 email=input("Email Address = ")
-degree=input("Entr your college name = ")
-hsc_name,hsc_percentage,hsc_group=input("Enter your college name and hsc percentage = ").split()
+degree_college,university,degree_name,cgpa=input("Entr your college name,university,degree and cgpa = ").split()
+hsc_name,hsc_percentage,hsc_group=input("Enter your college name,hsc percentage and group = ").split()
 ssc_name,ssc_percentage=input("Enter your school name and ssc percentage = ").split()
+summary = input("Enter your summary about yourself = ")
+skills = input("Enter your skills = ").split(sep="\n")
 
 
 
