@@ -24,3 +24,4 @@ def name(**name):
   print("hello,",name["fname"],name["lname"])
 print("Keyword arguements as a dictionary")
 name(fname="Krishna",lname="Pahune")
+
