@@ -23,7 +23,7 @@ while True:
             print("scissor kills paper. You Win!")
         else:
             print("rock kills scissor. You Lose!")       
-
+    print("-".center(50,"-"))
     play_again=input("do you want to play agin?(yes/no)")
     if play_again.lower()=="no":
         break
