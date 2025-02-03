@@ -14,3 +14,15 @@ a.info()
 b.info()
 a.occupation="squadron leader"
 a.info()
+
+class Student:
+    def __init__(self,a,w):
+        self.age=a
+        self.weight=w
+    def info(self):
+        print(self.age,self.weight)
+
+s=Student(10,35)
+s.age=50
+s.info()
+        
