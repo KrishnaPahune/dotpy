@@ -1,22 +1,16 @@
 class Library:
-    def __init__(self,bks,n_bks):
-        self.bks=bks
-        self.n_bks=n_bks
+    def __init__(self):
+        self.bks=[]
+        self.n_bks=0
     def addBooks(self,bk):
         self.bks.extend(bk)
-        self.n_bks += len(bk)
     def showBooks(self):
-        print(self.bks)
+        for book in self.bks:
+            print(book)
     def numBooks(self):
-        print(self.n_bks)
+        print(len(self.bks))
 
-bks=['book1','book2','book3']
-n_bks=len(bks)
-
-l = Library(bks,n_bks)
-
-l.showBooks()
-l.numBooks()
+l = Library()
 l.addBooks(['book4','book5','book6'])
 l.showBooks()
 l.numBooks()
