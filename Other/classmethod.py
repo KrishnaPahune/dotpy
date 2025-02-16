@@ -21,8 +21,8 @@ class Employee:
         print(f"{self.name} works in {self.company}")
     
     @classmethod                            
-    def changeCompany(self,newCompany):  # it changes the class variable directly
-        self.company=newCompany
+    def changeCompany(cls,newCompany):  # it changes the class variable directly
+        cls.company=newCompany          # here cls is same as Employee
 
 e1=Employee()
 e1.name="Harry"
