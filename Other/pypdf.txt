@@ -1,0 +1,417 @@
+Curriculum  for Third  Year  of Information  Technology  (2019  Course),  Savitribai  Phule  Pune  University  
+TE (Information  Technology)  Syllabus  (2019  Course)  2  
+ INDEX  
+ 
+Sr. No. Name  of the Course  Page  No. 
+ SEMESTER -V  
+1. Program  Educational  Objectives  03 
+2. Program  Outcomes  04 
+3. Program  Specific  Outcomes  05 
+4. Theory  of Computation  09 
+5. Operating  System s 12 
+6. Machine  Learning  15 
+7. Human  Computer  Interaction  18 
+8. Elective  –I 21-31 
+9. Operating  System s Lab 32 
+10. Human  Computer  Interaction  Laboratory  36 
+11. Laboratory  Practice -I 39-52 
+12. Seminar  53 
+13. Mandatory  Audit  Course  -5 56-60 
+ SEMESTER  –VI  
+14. Computer  Network  and Security  64 
+15. Data  Science  and Big Data  Analytics  67 
+16. Web  Application  Development  71 
+17. Elective -II 75-84 
+18. Internship  87 
+19. Computer  Network  Security  Lab 91 
+20. DS & BDA  Lab 93 
+21. Laboratory  Practice -II 96-106 
+22. Mandatory  Audit  Course  - 6 109-112 Curriculum  for Third  Year  of Information  Technology  (2019  Course),  Savitribai  Phule  Pune  University  
+TE (Information  Technology)  Syllabus  (2019  Course)  3  
+  
+Savitribai  Phule  Pune  University,  Pune  
+Bachelor  of Information  Technology  
+Program  Educational  Objectives  
+PEO1  Possess  strong  fundamental  concepts  in mathematics,  science,  engineering  and 
+Technology  to address  technological  challenges.  
+ 
+PEO2  Possess  knowledge  and skills  in the field  of Computer  Science  and Information  
+Technology for analyzing, designing and implementing complex engineering problems  
+of any  domain  with  innovative approaches.  
+PEO3  Possess  an attitude  and aptitude  for research,  entrepreneurship  and higher  
+studies  in the field  of Computer  Science  and Information  Technology.  
+PEO4  Have  commitment  ethical  practices,  societal  contributions  through  communities  
+and life-long  learning.  
+ 
+PEO5  Possess better communication, presentation, time management and team work skills  
+leading  to responsible  & competent  professional  sand  will be able  to address  
+challenges  in the field  of IT at global  level.  Curriculum  for Third  Year  of Information  Technology  (2019  Course),  Savitribai  Phule  Pune  University  
+TE (Information  Technology)  Syllabus  (2019  Course)  4  
+  
+Program  Outcomes  
+Students  are expected  to know  and be able  to– 
+ 
+PO1  Engineering  
+knowledge  An ability to apply knowledge of mathematics, computing, science,  
+engineering  and technology.  
+ 
+PO2  Problem  
+analysis  An ability to define a problem and provide a systematic solutionwith  
+the help  of conducting  experiments,  analyzing  the problem  and 
+interpreting  the data.  
+ 
+PO3  Design /  
+Development  
+ofSolutions  An ability  to design,  implement,  and evaluate  software  or asoftware  
+/hardware  system  ,component  ,or process  to meet  desired  need  
+switch  in realistic  constraints.  
+ 
+PO4  Conduct  
+Investigation of 
+Complex  
+Problems  An ability  to identify, formulate,  and provide  essay  schematicsolutions  
+to complex  engineering  /Technology problems.  
+ 
+PO5  Modern Tool  
+Usage  An ability  to use the techniques,  skills,  and modern  engineering  
+technology tools, standard processes necessary for practice as a IT  
+professional.  
+ 
+ 
+PO6   
+The Engineer  
+and Society  An ability to apply mathematical foundations, algorithmic principles,  
+and computer science theory in the modeling and design of computer - 
+based  systems  with  necessary  constraints  and assumptions.  
+ 
+PO7  Environment  
+and 
+Sustainability  An ability to analyze and provide solution  for the local and global  
+impact of information technology on individuals, organizations  and 
+society.  
+ 
+PO8   
+Ethics  An ability to understand professional, ethical, legal, security and  
+social  issues  and responsibilities.  
+ 
+PO9  Individual and  
+Team  Work  An ability  to function  effectively  as an individual  or as a team  member  
+to accomplish  a desired  goal(s).  
+ 
+ 
+PO10   
+Communication  
+Skills  An ability to engage in life -long learning and continuing professional  
+development to cope up with fast changes in the technologies /tools  
+with  the help  of electives,  profession  along  animations  and extra - 
+curricular  activities.  
+ 
+ 
+PO11  Project  
+Management  
+and 
+Finance  An ability to communicate effectively in  engineering community at  
+large  by means  of effective  presentations,  report  writing,  paper  
+publications,  demonstrations.  
+ 
+PO12  Life-long  
+Learning  An ability  to understand  engineering,  management,  financial  
+aspects,  performance,  optimizations  and time  complexity  necessary  
+for professional practice.  Curriculum  for Third  Year  of Information  Technology  (2019  Course),  Savitribai  Phule  Pune  University  
+TE (Information  Technology)  Syllabus  (2019  Course)  5  
+  
+Program  Specific  Outcomes(PSO)  
+A graduate  of the Information  Technology  Program  will demonstrate - 
+ 
+PSO1  An ability to apply the theoretical concepts and practical knowledge of Information  
+Technology  in analysis,  design,  development  and management  of information  
+processing  systems  and applications  in the interdisciplinary  domain.  
+ 
+PSO2  An ability  to analyze  a problem,  and identify  and define  the computing  
+infrastructure  and operations  requirements  appropriate  to its solution.  IT 
+graduates  should  be able  to work  on large -scale  computing  systems.  
+ 
+PSO3  An understanding  of professional,  business and business  processes,  ethical,  legal,  
+security  and social  issues  and responsibilities.  
+ 
+PSO4  Practice communication and decision -making skills through the use of appropriate  
+technology  and be ready  for professional  responsibilities.  Curriculum  for Third  Year  of Information  Technology  (2019  Course),  Savitribai  Phule  Pune  University  
+TE (Information  Technology)  Syllabus  (2019  Course)  6  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SEMESTER  – V Curriculum  for Third  Year  of Information  Technology  (2019  Course),  Savitribai  Phule  Pune  University  
+TE (Information  Technology)  Syllabus  (2019  Course)  7  
+ Savitribai  Phule  Pune  University  
+Third  Year  of Information  Technology  (2019  course)  
+(With  effect  from  Academic  Year  2021 -22) 
+Semester -V 
+Course  
+Code   
+Course  Name  Teaching  
+Scheme  
+(Hours/  week)   
+Examination  Scheme  and Marks   
+Credit  Scheme  
+  
+Theory  
+Practical  
+Tutorial  
+Mid-Sem  
+ 
+End-Sem  
+ 
+Term  work  
+Practical  
+Oral  
+ 
+Total  
+Lecture  
+Practical  
+Tutorial  
+Total  
+314441  Theory  of Computation  03 - - 30 70 - - - 100 3 - - 3 
+314442  Operating  Systems  03 - - 30 70 - - - 100 3 - - 3 
+314443  Machine  Learning  03 - - 30 70 - - - 100 3 - - 3 
+ 
+314444  Human Computer  
+Interaction  03 - - 30 70 - - - 100 3 - - 3 
+314445  Elective -I 03 - - 30 70 - - - 100 3 - - 3 
+314446  Operating  Systems  Lab - 04 - - - 25 25 - 50 - 2 - 2 
+314447  Human Computer  
+Interaction - Lab - 02 - - -  - 50 50 - 1  1 
+314448  Laboratory  Practice -I - 04 - - - 25 25  50 - 2 - 2 
+314449  Seminar  - 01 - - - 50 - - 50 - 1 - 1 
+314450  Audit  Course  5 - - - - - - - - - - - - - 
+Total  Credit  15 06 - 21 
+Total  15 11 - 150 350 100 50 50 700 15 06 - 21 
+Abbreviations:  TH: Theory,  TW: Term  Work,  PR: Practical  , OR: Oral  ,TUT:  Tutorial  
+Elective -I: 
+314445A - Design  and Analysis  of Algorithm  Audit  Course  5: 
+314450A -Banking  and Insurance  
+314445B - Advanced  Database  and Management  System  314450B -Startup  Ecosystems  
+314445C - Design  Thinking  314450C - Foreign  Language –(Japanese  
+314445D - Internet  of Things  Language - III )      
+Laboratory  Practice -I: 
+Assignment  from  Machine  Learning  and Elective  I 
+Note:  Students  of T.E.  (Information  Technology)  can opt any one of the audit  course  from  the list of 
+audit  courses  prescribed by  BoS (Information  Technology)  Curriculum  for Third  Year  of Information  Technology  (2019  Course),  Savitribai  Phule  Pune  University  
+TE (Information  Technology)  Syllabus  (2019  Course)  8  
+  
+Savitribai  Phule  Pune  University  
+Third  Year  of Information  Technology  (2019  Course)  
+(With  effect  from  Academic  Year  2021 -22) 
+Semester -VI 
+ 
+Course  
+Code   
+Course  Name  Teaching  
+Scheme  
+(Hours/  
+week)   
+Examination  Scheme  and Marks   
+Credit  Scheme  
+  
+Lecture  
+Practical  
+Tutorial  
+Mid-Sem  
+ 
+End-Sem  
+Term  Work  
+Practical  
+Oral  
+ 
+Total  
+Lecture  
+Practical  
+Tutorial  
+Total  
+314451  Computer  Networks&  
+Security   
+03  
+-  
+-  
+30  
+70  
+-  
+-  
+-  
+100  
+03    
+03 
+ 
+314452  Data  Science  and Big 
+Data  Analytics   
+03  
+-  
+-  
+30  
+70  
+-  
+-  
+-  
+100  
+03    
+03 
+314453  Web Application  
+Development  03 - - 30 70 - - - 100 03   03 
+314454  Elective -II 03 - - 30 70 - - - 100 03   03 
+314455  Internship  - 04 - - - 100 - - 100  04  04 
+314456  Computer  Networks&  
+Security -Lab - 04 - - - 25 - 50 75  02  02 
+314457  DS & BDA -Lab - 02 - - - 25 25 - 50  01  01 
+ 
+314458   
+Laboratory  Practice -II  
+-  
+04  
+-  
+-  
+-  
+50  
+25  
+-  
+75   
+02   
+02 
+314459  Audit  Course  6 - - - - - - - - - - - - - 
+Total  12 09 - 21 
+Total  12 14 - 120 280 200 50 50 700 12 09 - 21 
+Abbreviations:  TH: Theory,  TW: Term  Work,  PR: Practical  , OR:  Oral,  TUT:  Tutorial  
+Elective -II: 
+314454A - Artificial  Intelligence  Audit  Course  6: 
+314459A  - Green  and Unconventional  Energy  
+314454B - Cyber  Security  314459B  - Leadership  and Personality  Development  
+314454C  -Cloud  Computing  314459C - Foreign  Language -(Japanese  Language - IV) 
+314454D - Software  Modeling and  Design  
+Laboratory  Practice -II: 
+Assignments  from  Web  Application  Development  and Elective -II. 
+Note:  Students  of T.E. (Information  Technology)  can opt any one of the audit  course  from the  list of 
+audit  courses  prescribed  by BoS (Information  Technology)  Curriculum  for Third  Year  of Information  Technology  (2019  Course),  Savitribai  Phule  Pune  University  
+TE (Information  Technology)  Syllabus  (2019  Course)  9  
+  
+Savitribai Phule  Pune  University,  Pune  
+Third  Year  Information  Technology  (2019  Course)  
+314441:  Theory  of Computation  
+Teaching  Scheme:  Credit  Scheme:  Examination  Scheme:  
+Theory  (TH)  : 3 hrs/week  03 Credits  Mid_Semester  : 30 Marks  
+End_Semester  : 70 Marks  
+Prerequisite  Courses : 
+1. Discrete  Structures.  
+2. Data  structures.  
+Companion  Course , if any: NA  
+Course  Objectives:  
+1. To know  the applicability  of the model  of computation  to different  problems.  
+2. To understand  in detail  the relationship  among  formal  languages,  formal  grammars  and 
+automata.  
+3. To learn  the design  of Finite  Automata,  Pushdown  Automata  and Turing  Machine  for processing  
+of formal  languages.  
+4. To study  the theory  of computability  and complexity  for algorithm design.  
+Course  Outcomes:  
+On completion  of the course,  students  will be able  to– 
+CO1:  Construct  finite  automata  and its variants  to solve  computing  problems.  
+CO2:  Write regular  expressions  for the regular  languages  and finite  automata.  
+CO3: Identify types of grammar, design and simplify Context Free Grammar.  
+CO4: Construct Pushdown  Automata machine for the Context Free Language.  
+CO5:  Design  and analyze  Turing  machines  for formal  languages.  
+CO6:  Understand  decidable  and undecidable  problems,  analyze  complexity  classes.  
+COURSE  CONTENTS  
+Unit  I FINITE  AUTOMATA  ( 06 hrs ) 
+Basic  Concepts:  Symbols,  Strings,  Language,  Formal  Language.  
+Finite Automata (FA): Formal definition and notations for FSM, Concept of state transition diagram  
+and transition  table  for FA, Construction  of DFA,  NFA,  NFA with  epsilon  moves.  Conversion  of NFA with  
+epsilon moves to NFA, Conversion of NFA to DFA, and Conversion of NFA with epsilon moves to DFA,  
+Minimization  of FA, Equivalence of  FAs, and Applications  of FA. 
+Finite State Machine with output:  Moore and Mealy machines - Definition, Construction, Inter - 
+Conversion.  
+Mappi ng of Course  Outcomes  
+for Unit  I CO1  
+Unit  II REGULAR  EXPRESSIONS  AND LANGUAGES  ( 06 hrs ) 
+Regular Expressions (RE) : Definition and Identities of RE, Operators of RE, Equivalence of two regular  
+expressions,  Equivalence  of regular  expressions  and regular  languages  (RL),  Conversion  of RE to FA using  
+direct  method,  Conversion  of FA to RE using  Arden’s  theorem,  Pumping  lemma  for RLs, Closure  
+properties  of RLs, Applications  of Regular  Expressions.  HOME  Curriculum  for Third  Year  of Information  Technology  (2019  Course),  Savitribai  Phule  Pune  University  
+TE (Information  Technology)  Syllabus  (2019  Course)  10  
+  
+Mapping  of Course  Outcomes  for 
+Unit  II CO2  
+Unit  III CONTEXT  FREE  GRAMMAR  AND  LANGUAGE  (06 hrs) 
+Grammar : Introduction  and representation,  Chomsky  Hierarchy,  Formal  definition  of Regular  
+Grammar(RG), Conversions:  LRG to RLG,  RLG to LRG,  RG to FA, FA to RG. 
+Context Free Grammar (CFG): Definition of CFG, Derivation tree, sentential forms, Leftmost and  
+Rightmost  derivations,  Ambiguous  Grammar  and unambiguous  grammar,  Context  Free  Language  
+(CFL).  
+Grammar  Simplification,  Normal  forms:  Chomsky  Normal  Form,  Greibach  Normal  Form.  Closure  
+properties  of CFL, Pumping lemma  for CFL. 
+Mapping  of Course  Outcomes  
+for Unit  III CO3  
+Unit  IV PUSHDOWN  AUTOMATA  AND  POST  
+MACHINE  (06 hrs )  
+Pushdown Automata(PDA) : Introduction and formal definition of PDA, Construction of  Transition  
+diagram and Transition table for PDA, Instantaneous Description of PDA, Equivalence of Acceptance by  
+Final  State  & Empty  stack,  Deterministic  PDA  and Nondeterministic  PDA,  Context  Free  Language  and PDA  
+Conversion  of CFG to  PDA  and PDA  to CFG.  
+Post  Machine  (PM):  Definition  and construction  of Post  Machine.  
+Mapping  of Course  Outcomes  for 
+Unit  IV CO4  
+Unit  V TURING  MACHINE  (06 hrs )  
+Turing Machine (TM) : Formal definition of a Turing machine, Design of Turing machines, Variants of  
+Turing Machines: Deterministic TM, Nondeterministic TM, Multi -tape TM, Universal Turing Machine,  
+Halting  problem  of TM , Church -Turing  thesis,  Recursive  Languages  and Recursively  Enumerable  
+Languages,  Post  Correspondence  Problem.  
+Mapping  of Course  
+Outcomes  for Unit  V CO5  
+Unit  VI COMPUTATIONAL  COMPLEXITY  (06 hrs) 
+Decidability:  Decidable  problems  concerning  regular  languages,  Decidable  problems  concerning  
+context  free languages,  Un-decidability.  
+Computational Complexity: Measuring Complexity, The Class P, Examples of problems in P, The Class  
+NP, and Examples  of problems  in NP, Reducibility,  Mapping  Reducibility,  Polynomial  Time  Reduction  and 
+NP Completeness.  Satisfiability  Problem,  NP Completeness  of the SAT Problem,  
+Normal  Forms  for Boolean  Expressions,  Cook’s  theorem,  Node -C over  Problem.  Curriculum  for Third  Year  of Information  Technology  (2019  Course),  Savitribai  Phule  Pune  University  
+TE (Information  Technology)  Syllabus  (2019  Course)  11  
+  
+Mapping of  Course  Outcomes  
+for Unit  VI CO6  
+Text  Books:  
+1. John C. Martin, Introduction to Language and Theory of Computation, TMH, 3rd Edition,  
+ISBN:  978-0070660489.  
+2. Vivek  Kulkarni,  Theory  of Computation,  Oxford  University Press,ISBN - 
+13 : 978-0198084587.  
+Reference  Books:  
+1. John E.  Hopcroft, Rajeev  Motwani,  Jeffrey  D.Ullman,  Introduction  to Automata  Theory  
+Languages and  Computation,  Addison -Wesley,  ISBN  0-201-44124 -1. 
+2. K.L.P  Mishra,  N. Chandrasekaran,  Theory  of Computer  Science  : Automata,  Languages  and 
+Computation,  Prentice  Hall India,  2nd Edition.  
+3. Michael Sipser, Introduction  to the Theory  of Computation, CENGAGE Learning,  3rd 
+Edition  ISBN -  13:978 -81-315-2529 -6. 
+4. Daniel  Cohen,  “Introduction  to Computer  Theory”,  Wiley  & Sons,  ISBN  97881265133454.  
+5. Kavi Mahesh,  “Theory  of Computation:  A Problem -Solving  Approach”,  Wiley  India,  
+ISBN -1081265331106.  
+E- Books  / E- Learning References  : 
+1. https://cglab.ca/~michiel/TheoryOfComputation/TheoryOfComputation.pdf  
+2. https://theory.cs.princeton.edu/complexity/book.pdf  
+ 
+NPTEL  video  lecture  link : 
+1. https://nptel.ac.in/courses/106/104/106104148/  
+2. https://nptel.ac.in/courses/106/104/106104028/  
