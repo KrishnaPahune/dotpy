@@ -8,6 +8,7 @@ print("1. Business\n2. Entertainment\n3. General\n4. Health\n5. Science\n6. Spor
 
 choice = int(input("Enter category number: "))
 
+sports_query = None
 match choice:
     case 1:
         category = "business"
@@ -21,6 +22,22 @@ match choice:
         category = "science"
     case 6:
         category = "sports"
+        print("\nSelect a Sport:")
+        print("1. Football\n2. Cricket\n3. Basketball\n4. Tennis\n5. Other")
+        sport_choice = int(input("Enter sport number: "))
+        match sport_choice:
+            case 1:
+                sports_query = "football"
+            case 2:
+                sports_query = "cricket OR IPL OR T20 OR Ashes"
+            case 3:
+                sports_query = "basketball"
+            case 4:
+                sports_query = "tennis"
+            case 5:
+                sports_query = input("Enter your own sport keyword: ").strip()
+            case _:
+                sports_query = None
     case 7:
         category = "technology"
     case _:
@@ -29,10 +46,13 @@ match choice:
 print(f"\nFetching {category.capitalize()} news...\n")
 
 params = {
-    "country": "us",  # Change to your preferred country (e.g., "in" for India)
+    "country": "in",  # Change to your preferred country (e.g., "in" for India)
     "category": category,  # You can change categories (e.g., "business", "sports")
     "apiKey": API_KEY
 }
+
+if sports_query:
+    params["q"] = sports_query
 
 response = requests.get(BASE_URL, params=params)
 
