@@ -46,7 +46,7 @@ match choice:
 print(f"\nFetching {category.capitalize()} news...\n")
 
 params = {
-    "country": "in",  # Change to your preferred country (e.g., "in" for India)
+    "country": "us",  # Change to your preferred country (e.g., "in" for India)
     "category": category,  # You can change categories (e.g., "business", "sports")
     "apiKey": API_KEY
 }
